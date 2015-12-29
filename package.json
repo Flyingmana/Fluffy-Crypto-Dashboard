@@ -1,0 +1,14 @@
+{
+  "name"    : "fluffy-crypto-dashboard",
+  "version" : "0.1.0",
+  "main"    : "bootstrapper.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "react": "*",
+    "react-dom": "^0.14.3",
+    "openpgp": "^1.4.1",
+    "gpg": "^0.4.0"
+  }
+}
