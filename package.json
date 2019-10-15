@@ -8,7 +8,7 @@
     "babel-register": "^6.3.13",
     "react": "*",
     "react-dom": "^0.14.3",
-    "openpgp": "^1.4.1",
+    "openpgp": "^4.6.2",
     "gpg": "^0.4.0"
   }
 }
